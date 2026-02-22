@@ -20,7 +20,7 @@ Ce type d’approche est utilisé en entreprise pour le monitoring de performanc
 ---
 
 ## 2. Structure du projet
-
+```
 bakery-sales-analysis/
 │
 ├── data/
@@ -40,7 +40,7 @@ bakery-sales-analysis/
 │
 ├── README.md
 └── LICENSE
-
+```
 
 ---
 
